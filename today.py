@@ -17,6 +17,9 @@ HEADERS = {'authorization': 'token ' + os.getenv('ACCESS_TOKEN')}
 USER_NAME = os.getenv('USER_NAME') # 'Andrew6rant'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
+if os.getenv('ACCESS_TOKEN') is None or USER_NAME is None:
+    raise ValueError("ACCESS_TOKEN or USER_NAME environment variable is not set")
+
 def daily_readme(birthday):
     """
     Returns the length of time since I was born
