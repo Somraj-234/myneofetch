@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Add this line to give explicit write permissions
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -38,10 +40,3 @@ jobs:
           git config --global user.name "Somraj-234/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
           git push
-
-
-
-
-
-
-
