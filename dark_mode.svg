@@ -41,7 +41,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="570">       %%NN     NNNN%         </tspan>
 <tspan x="15" y="590">       g%N        NN%m        </tspan>
 <tspan x="15" y="610">       m%N  N     NN%%m       </tspan>
-<tspan x="15" y="630">22 years, 3 months, 24 days</tspan>
+<tspan x="15" y="630">22 years, 3 months, 25 days</tspan>
 <tspan x="15" y="650">       g%NNNNN NNNN%%mmmmm    </tspan>
 <tspan x="15" y="670">     nmg%%NNNNNNNNNNgmmmmmmmn </tspan>
 <tspan x="15" y="690">  nmmgmmgNNNNNNNNNNggmmmmggmmm</tspan>
@@ -69,12 +69,12 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">12</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">13</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">358    </tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">360    </tspan>
 <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="410" class="keyColor">Twitter</tspan>: <tspan class="valueColor">2   </tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">22,186</tspan>
-<tspan x="370" y="490" class="keyColor">25,701++</tspan>: <tspan class="valueColor">3,515--</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">128</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,017  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">234</tspan>
+<tspan x="370" y="490" class="keyColor">25,717++</tspan>: <tspan class="valueColor">3,531--</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">128</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,017  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">234</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">93  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">438,843</tspan> (<tspan class="addColor">511,684++</tspan>, <tspan class="delColor">72,841--</tspan>)
 </text>
 
